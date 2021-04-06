@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package version="software5.7" xmlns="http://apple.com/itunes/importer">
+  <provider>1549754259</provider>
+  <team_id>1549754259</team_id>
+  <software>
+    <vendor_id>BladeofLight-01</vendor_id>
+    <software_metadata>
+      <in_app_purchases>
+        <in_app_purchase>
+          <product_id>com.bladeoflight.noads</product_id>
+          <reference_name>com.bladeoflight.noads</reference_name>
+          <type>non-consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>2</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="en-US">
+              <title>Remove Pop Up Ads</title>
+              <description>Removes pop up ads that play after runs</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>iap_screenshot.jpg</file_name>
+            <size>139684</size>
+            <checksum>7a718d018fb5fcd372042e3ef332738d</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+      </in_app_purchases>
+    </software_metadata>
+  </software>
+</package>
